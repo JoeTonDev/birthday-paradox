@@ -1,1 +1,1 @@
-A Python script about the Birthday Paradox.
+The Birthday Paradox script written in Python.
